@@ -1,7 +1,7 @@
 ## OLÁ,  SOU A EDUARDA DUANE 👋
 
-
-- 🔭 Cursando TI
+- 💻 Curso Técnico em Tecnologia da Informação
+- 🔭 Cursando Programação
 - 🌱 Aprendendo GitHub
 ##### Hard Skills
 

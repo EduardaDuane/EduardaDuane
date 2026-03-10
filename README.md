@@ -1,6 +1,7 @@
 ## OLÁ,  SOU A EDUARDA DUANE 👋
 
-- 💻 Curso Técnico em Tecnologia da Informação (QI Faculdades & Escola técnica)
+- 💻 Curso Técnico em Informática (QI Faculdades & Escola técnica)
+- 💻 Graduando Sistemas para Informação (Unisinos)
 - 💻 Cursando Técnico em Análise de Sistemas (Senac)
 - 💻 Curso Programador Web Senac
 - 🔭 Cursando Programação

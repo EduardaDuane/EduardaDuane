@@ -14,5 +14,5 @@
   <img src = "https://github.com/user-attachments/assets/1e5b5af2-5503-4773-a31a-53ee912a4a28" width = "40">
   <img src = "https://github.com/user-attachments/assets/7d65ee43-aa25-4331-9df1-a534ed635e09" width = "40">
   <img src = "https://file.labex.io/namespace/df87b950-1f37-4316-bc07-6537a1f2c481/java/lab-your-first-java-lab/assets/java.svg" width = "40">
-  <img src = https://pt.wikipedia.org/wiki/JavaScript#/media/Ficheiro:Unofficial_JavaScript_logo_2.svg width = "40">
+  <img src =  width = "40">
 </div>

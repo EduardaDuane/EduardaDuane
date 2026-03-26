@@ -6,6 +6,12 @@
 - 💻 Curso Programador Web Senac
 - 🔭 Cursando Programação
 - 🌱 Aprendendo GitHub
+
+## 🏅 Certificações
+<p>
+  <a href="https://www.credly.com/badges/58d15012-c478-4ce1-8c37-30edf04105c0/public_url">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
+  </a>
 ##### Hard Skills
 
 <div style="display:inline_block">

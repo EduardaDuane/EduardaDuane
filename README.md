@@ -1,4 +1,10 @@
-## OLÁ,  SOU A EDUARDA DUANE 👋
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem+vindo+ao+meu+GitHub!;Sou+a+Eduarda+Duane!%F0%9F%A9%B5" alt="Typing SVG" />
+  </a>
+</div>
+
 
 - 💻 Curso Técnico em Informática (QI Faculdades & Escola técnica)
 - 💻 Graduando Sistemas para Informação (Unisinos)
@@ -28,6 +34,10 @@
   <img src = "https://github.com/user-attachments/assets/38307ccb-69ca-469e-9c09-f26653204700" width= "80"/>
 <img width="40" alt="EADF1AEA-AE1F-4D49-B11D-0E3B0A779C31" src="https://github.com/user-attachments/assets/965fec61-bdf9-43b7-9cb0-68e9f701664c" />
 
+<h3 align="left">Connect with me!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/eduarda-duane-65bb052ab/?skipRedirect=true)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/eduarda.duane)
 
 
 

@@ -23,12 +23,30 @@
 
 <div style="display:inline_block">
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <!-- Ícone 1 -->
+  <img align="center" src="https://github.com/user-attachments/assets/efd95607-a990-48b7-9696-f23b973478f1" height="28" />
+  <!-- Ícone 2 -->
+  <img align="center" src="https://github.com/user-attachments/assets/d1af5293-106f-432f-af9a-46bf58e04f87" height="28" />
+  <!-- Ícone 3 -->
+  <img align="center" src="https://github.com/user-attachments/assets/1e5b5af2-5503-4773-a31a-53ee912a4a28" height="28" />
+  <!-- Ícone 4 -->
+  <img align="center" src="https://github.com/user-attachments/assets/7d65ee43-aa25-4331-9df1-a534ed635e09" height="28" />
+  <!-- Java -->
+  <img align="center" src="https://file.labex.io/namespace/df87b950-1f37-4316-bc07-6537a1f2c481/java/lab-your-first-java-lab/assets/java.svg" height="28" />
+  <!-- TypeScript -->
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="28" />
+  <!-- Ícone 7 -->
+  <img align="center" src="https://github.com/user-attachments/assets/a55cda5d-c7ae-4d1f-9b3c-a0118b7e6079" height="28" />
+  <!-- Ícone 8 -->
+  <img align="center" src="https://github.com/user-attachments/assets/86d3d6e1-1668-4072-b17b-997a3d990f53" height="28" />
+  <!-- Ícone 9 -->
+  <img align="center" src="https://github.com/user-attachments/assets/9419b7b6-7d86-4807-834c-725fd09cd553" height="28" />
+  <!-- TypeScript (Duplicado) -->
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="28" />
+  <!-- Ícone Maior -->
+  <img align="center" src="https://github.com/user-attachments/assets/38307ccb-69ca-469e-9c09-f26653204700" height="28" />
+  <!-- EADF1AEA -->
+  <img align="center" alt="EADF1AEA-AE1F-4D49-B11D-0E3B0A779C31" src="https://github.com/user-attachments/assets/965fec61-bdf9-43b7-9cb0-68e9f701664c" height="28" />
 </div><br/>
 
 <h3 align="left">Connect with me!</h3>

@@ -39,7 +39,7 @@
   <!-- Ícone 7 -->
   <img align="center" src="https://github.com/user-attachments/assets/a55cda5d-c7ae-4d1f-9b3c-a0118b7e6079" height="80" />
   <!-- Ícone 8 -->
-  <img align="center" src="https://github.com/user-attachments/assets/86d3d6e1-1668-4072-b17b-997a3d990f53" height="80" />
+  <img align="center" src="https://github.com/user-attachments/assets/5dd216fd-13c5-47c3-b74f-4d5133d01c82" height="80" />
   <!-- Ícone 9 -->
   <img align="center" src="https://github.com/user-attachments/assets/9419b7b6-7d86-4807-834c-725fd09cd553" height="80" />
   <!-- Ícone Maior -->

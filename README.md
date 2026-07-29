@@ -24,7 +24,7 @@
 <div style="display:inline_block">
 <div style="display: inline_block">
   <!-- Ícone 1 -->
-  <img align="center" src="https://github.com/user-attachments/assets/efd95607-a990-48b7-9696-f23b973478f1" height="100" />
+  <img align="center" src="https://github.com/user-attachments/assets/efd95607-a990-48b7-9696-f23b973478f1" height="80" />
   <!-- Ícone 2 -->
   <img align="center" src="https://github.com/user-attachments/assets/d1af5293-106f-432f-af9a-46bf58e04f87" height="28" />
   <!-- Ícone 3 -->

@@ -44,9 +44,9 @@
   <!-- TypeScript (Duplicado) -->
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="28" />
   <!-- Ícone Maior -->
-  <img align="center" src="[https://github.com/user-attachments/assets/38307ccb-69ca-469e-9c09-f26653204700](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/dart-logo-thumbnail)" height="28" />
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lTxQTiOgPecVya0HbItNyNmTi7o2bTrdlYDcwtMCSg&s=10" height="28" />
   <!-- EADF1AEA -->
-  <img align="center" alt="EADF1AEA-AE1F-4D49-B11D-0E3B0A779C31" src="[https://github.com/user-attachments/assets/965fec61-bdf9-43b7-9cb0-68e9f701664c](https://www.cumulations.com/blog/what-made-flutter-framework-a-big-hit-in-the-app-development-industry/)" height="28" />
+  <img align="center" alt="EADF1AEA-AE1F-4D49-B11D-0E3B0A779C31" src="https://www.cumulations.com/wp-content/uploads/2022/03/flutter-logo.png" height="28" />
 </div><br/>
 
 <h3 align="left">Connect with me!</h3>

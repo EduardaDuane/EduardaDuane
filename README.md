@@ -22,10 +22,9 @@
 ##### Hard Skills
 
 <div style="display:inline_block">
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![React](https://shields.io)
-![Git](https://shields.io)
+![Stats](https://vercel.app)
+(https://herokuapp.com)
+https://vercel.app
 
 <h3 align="left">Connect with me!</h3>
 

@@ -19,7 +19,7 @@
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
   </a>
   
-##### Hard Skills
+##### Linguagens de Programação👩🏽‍💻
 
 <div style="display:inline_block">
 <div style="display: inline_block">

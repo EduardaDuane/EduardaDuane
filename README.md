@@ -26,27 +26,27 @@
   <!-- Ícone 1 -->
   <img align="center" src="https://github.com/user-attachments/assets/efd95607-a990-48b7-9696-f23b973478f1" height="80" />
   <!-- Ícone 2 -->
-  <img align="center" src="https://github.com/user-attachments/assets/d1af5293-106f-432f-af9a-46bf58e04f87" height="28" />
+  <img align="center" src="https://github.com/user-attachments/assets/d1af5293-106f-432f-af9a-46bf58e04f87" height="80" />
   <!-- Ícone 3 -->
-  <img align="center" src="https://github.com/user-attachments/assets/1e5b5af2-5503-4773-a31a-53ee912a4a28" height="28" />
+  <img align="center" src="https://github.com/user-attachments/assets/1e5b5af2-5503-4773-a31a-53ee912a4a28" height="80" />
   <!-- Ícone 4 -->
-  <img align="center" src="https://github.com/user-attachments/assets/7d65ee43-aa25-4331-9df1-a534ed635e09" height="28" />
+  <img align="center" src="https://github.com/user-attachments/assets/7d65ee43-aa25-4331-9df1-a534ed635e09" height="80" />
   <!-- Java -->
-  <img align="center" src="https://file.labex.io/namespace/df87b950-1f37-4316-bc07-6537a1f2c481/java/lab-your-first-java-lab/assets/java.svg" height="28" />
+  <img align="center" src="https://file.labex.io/namespace/df87b950-1f37-4316-bc07-6537a1f2c481/java/lab-your-first-java-lab/assets/java.svg" height="80" />
   <!-- TypeScript -->
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="28" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="80" />
   <!-- Ícone 7 -->
-  <img align="center" src="https://github.com/user-attachments/assets/a55cda5d-c7ae-4d1f-9b3c-a0118b7e6079" height="28" />
+  <img align="center" src="https://github.com/user-attachments/assets/a55cda5d-c7ae-4d1f-9b3c-a0118b7e6079" height="80" />
   <!-- Ícone 8 -->
-  <img align="center" src="https://github.com/user-attachments/assets/86d3d6e1-1668-4072-b17b-997a3d990f53" height="28" />
+  <img align="center" src="https://github.com/user-attachments/assets/86d3d6e1-1668-4072-b17b-997a3d990f53" height="80" />
   <!-- Ícone 9 -->
-  <img align="center" src="https://github.com/user-attachments/assets/9419b7b6-7d86-4807-834c-725fd09cd553" height="28" />
+  <img align="center" src="https://github.com/user-attachments/assets/9419b7b6-7d86-4807-834c-725fd09cd553" height="80" />
   <!-- TypeScript (Duplicado) -->
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="28" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="80" />
   <!-- Ícone Maior -->
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lTxQTiOgPecVya0HbItNyNmTi7o2bTrdlYDcwtMCSg&s=10" height="28" />
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lTxQTiOgPecVya0HbItNyNmTi7o2bTrdlYDcwtMCSg&s=10" height="80" />
   <!-- EADF1AEA -->
-  <img align="center" alt="EADF1AEA-AE1F-4D49-B11D-0E3B0A779C31" src="https://www.cumulations.com/wp-content/uploads/2022/03/flutter-logo.png" height="28" />
+  <img align="center" alt="EADF1AEA-AE1F-4D49-B11D-0E3B0A779C31" src="https://www.cumulations.com/wp-content/uploads/2022/03/flutter-logo.png" height="80" />
 </div><br/>
 
 <h3 align="left">Connect with me!</h3>

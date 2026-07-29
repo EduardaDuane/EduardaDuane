@@ -5,7 +5,7 @@
   </a>
 </div>
 
-
+- 💻 Jovem  Aprendiz na empresa SKA Automação de Engenharias
 - 💻 Curso Técnico em Informática (QI Faculdades & Escola técnica)
 - 💻 Graduando Sistemas para Informação (Unisinos)
 - 💻 Cursando Técnico em Análise de Sistemas (Senac)

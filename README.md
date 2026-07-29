@@ -41,8 +41,6 @@
   <img align="center" src="https://github.com/user-attachments/assets/86d3d6e1-1668-4072-b17b-997a3d990f53" height="80" />
   <!-- Ícone 9 -->
   <img align="center" src="https://github.com/user-attachments/assets/9419b7b6-7d86-4807-834c-725fd09cd553" height="80" />
-  <!-- TypeScript (Duplicado) -->
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="80" />
   <!-- Ícone Maior -->
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lTxQTiOgPecVya0HbItNyNmTi7o2bTrdlYDcwtMCSg&s=10" height="80" />
   <!-- EADF1AEA -->

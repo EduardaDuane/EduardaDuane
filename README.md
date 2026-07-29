@@ -41,7 +41,7 @@
   <!-- Ícone 8 -->
   <img align="center" src="https://github.com/user-attachments/assets/5dd216fd-13c5-47c3-b74f-4d5133d01c82" height="80" />
   <!-- Ícone 9 -->
-  <img align="center" src="https://github.com/user-attachments/assets/9419b7b6-7d86-4807-834c-725fd09cd553" height="80" />
+  <img align="center" src="https://github.com/user-attachments/assets/b28abc66-9fb8-42dc-95e3-88002a633e57"  height="80" />
   <!-- Ícone Maior -->
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lTxQTiOgPecVya0HbItNyNmTi7o2bTrdlYDcwtMCSg&s=10" height="80" />
   <!-- EADF1AEA -->

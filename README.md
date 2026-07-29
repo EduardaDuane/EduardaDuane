@@ -28,7 +28,7 @@
   <!-- Ícone 2 -->
   <img align="center" src="https://github.com/user-attachments/assets/d1af5293-106f-432f-af9a-46bf58e04f87" height="80" />
   <!-- Ícone 3 -->
-  <img align="center" src="https://github.com/user-attachments/assets/1e5b5af2-5503-4773-a31a-53ee912a4a28" height="80" />
+  <img align="center" src="[https://github.com/user-attachments/assets/1e5b5af2-5503-4773-a31a-53ee912a4a28](https://thumbs.dreamstime.com/b/modelo-do-logotipo-html-ilustrativo-em-fundo-branco-editorial-eps-download-vetorial-jpeg-banner-208329416.jpg)" height="80" />
   <!-- Ícone 4 -->
   <img align="center" src="https://github.com/user-attachments/assets/7d65ee43-aa25-4331-9df1-a534ed635e09" height="80" />
   <!-- Java -->

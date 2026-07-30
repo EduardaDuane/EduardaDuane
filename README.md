@@ -35,9 +35,7 @@
 ### SOFTWARES/IDE🛜
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-<img align="center" src="https://github.com/user-attachments/assets/a338f5c7-c560-4275-823f-ac7ecb3f9ab8" height="80" />
-<img align="center" src="https://github.com/user-attachments/assets/dbf999de-1e57-4d80-b0ce-5271794592d9" height="80" />
-<img align="center" src="https://github.com/user-attachments/assets/3576c359-e1cf-4db1-b516-7cb82435550d" height="80" />
+
 
 <h3 align="left">Connect with me!</h3>
 

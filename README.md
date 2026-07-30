@@ -19,7 +19,7 @@
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
   </a>
   
-##### Linguagens de Programação👩🏽‍💻
+##### LINGUAGENS DE PROGRAMAÇÃO👩🏽‍💻
   [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)

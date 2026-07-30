@@ -13,13 +13,18 @@
 - 🔭 Cursando Programação
 - 🌱 Aprendendo GitHub
 
-## 🏅 Certificações
+---
+
+### 🏅 CERTIFICAÇÕES
 <p>
   <a href="https://www.credly.com/badges/58d15012-c478-4ce1-8c37-30edf04105c0/public_url">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
   </a>
   
-##### LINGUAGENS DE PROGRAMAÇÃO👩🏽‍💻
+  ---
+  
+### LINGUAGENS DE PROGRAMAÇÃO👩🏽‍💻
+
   [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
@@ -32,10 +37,14 @@
   [![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
+--- 
+
 ### SOFTWARES/IDE🛜
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+--- 
 
 
 ### OUTRAS FERRAMENTAS🛠️
@@ -44,6 +53,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
+--- 
 
 <h2 align="left">Connect with me!</h2>
 

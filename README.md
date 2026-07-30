@@ -33,8 +33,12 @@
   [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 ### SOFTWARES/IDE🛜
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+
+
 
 
 <h3 align="left">Connect with me!</h3>

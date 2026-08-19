@@ -11,7 +11,6 @@
 - 💻 Cursando Técnico em Análise de Sistemas (Senac)
 - 💻 Curso Programador Web Senac
 - 🔭 Cursando Programação
-- 🌱 Aprendendo GitHub
 
 ---
 

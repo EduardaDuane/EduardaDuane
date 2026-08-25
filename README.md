@@ -43,6 +43,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
 
 --- 
 

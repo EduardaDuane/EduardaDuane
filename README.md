@@ -35,6 +35,7 @@
   [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 --- 
 

@@ -38,6 +38,8 @@
   [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 --- 
+### DATABASES
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### SOFTWARES/IDE🛜
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -52,6 +54,7 @@
 
 ### OUTRAS FERRAMENTAS🛠️
 ![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
